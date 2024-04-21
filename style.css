@@ -1,0 +1,14 @@
+.posts{
+
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    background: #efefef;
+    padding: 10px;
+    margin: 10px;
+}
+
+.posts ul{
+
+    list-style: none;
+}
